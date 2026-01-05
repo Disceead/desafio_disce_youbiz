@@ -12,6 +12,10 @@ Nota: Esta é uma API falsa (JSONPlaceholder) e as alterações não são persis
 - Criar operações CRUD (Create, Read, Update, Delete) para posts.
 - Implemente uma interface simples para interagir com a API.
 - Utilize Tailwind CSS para estilização. A interface será avaliada.
+- Garanta a responsividade da interface para diferentes tamanhos de tela.
+- Implemente transições suaves para melhorar a experiência do usuário.
+- Gerencie eventos de forma adequada (como cliques e submissões de formulários).
+- Utilize hooks do React para gerenciar estado e efeitos colaterais.
 
 ## Funcionalidades Opcionais
 - Filtragem de dados (por exemplo, filtrar posts por usuário ou título).
@@ -34,4 +38,4 @@ cd desafio_disce_youbiz
 
 ## Avaliação
 
-Após implementar, faça o repositório público no GitHub para avaliação.
+Após implementar, faça o upload para um repositório público no seu perfil GitHub para avaliação.
